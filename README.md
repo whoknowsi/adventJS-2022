@@ -2,7 +2,7 @@
 
 ![adventJs](https://i.imgur.com/iv17QFL.png)
 
-<img src="https://adventjs.dev/android-icon-192x192.png" width="16" height="16" /> <strong> [adventJS](https://adventjs.dev/es) es una iniciativa de [@midudev](https://midu.dev/)</strong>
+# <img src="https://adventjs.dev/android-icon-192x192.png" width="28" height="28" /> <strong> [adventJS](https://adventjs.dev/es) es una iniciativa de [@midudev](https://midu.dev/)</strong>
  
 
 ## Retos
