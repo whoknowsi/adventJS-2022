@@ -1,4 +1,4 @@
-# [Reto #2: Nadie quiere hacer horas extra](https://adventjs.dev/es/challenges/2022/1)
+# [Reto #2: Nadie quiere hacer horas extra](https://adventjs.dev/es/challenges/2022/2)
 
 ![Challenge 02](https://adventjs.dev/challenges-2022/2.svg)
 
