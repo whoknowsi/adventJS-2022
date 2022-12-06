@@ -13,7 +13,7 @@
 | #02  | [Nadie quiere hacer horas extra](https://adventjs.dev/es/challenges/2022/2)                     | [Ver solución](./challenge02/)    |  121   |
 | #03  | [¿Cuántas cajas de regalos puede llevar Papá Noel?](https://adventjs.dev/es/challenges/2022/3)  | [Ver solución](./challenge03/)    |  135   |
 | #04  | [Una caja dentro de otra caja y otra...](https://adventjs.dev/es/challenges/2022/4)             | [Ver solución](./challenge04/)    |  169   |
-| #05  |                                                                                                 |                                   |        |
+| #05  | [Optimizando viajes de Santa](https://adventjs.dev/es/challenges/2022/5)                        | [Ver solución](./challenge05/)    |  140   |
 | #06  |                                                                                                 |                                   |        |
 | #07  |                                                                                                 |                                   |        |
 | #08  |                                                                                                 |                                   |        |
