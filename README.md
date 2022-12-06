@@ -33,3 +33,7 @@
 | #22  |                                                                                                 |                                   |        |
 | #23  |                                                                                                 |                                   |        |
 | #24  |                                                                                                 |                                   |        |
+
+## Tests
+
+Cada challenge viene con su propio test basado en los test visibles de la cada reto, para ejecutarlos se necesita entrar aen la carpeta correspondiente de cada challenge y ejecutar `npm install`, luego `npm run test` para correr los test del correspondiente challenge.
