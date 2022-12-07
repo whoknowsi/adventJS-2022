@@ -15,7 +15,7 @@
 | #04  | [Una caja dentro de otra caja y otra...](https://adventjs.dev/es/challenges/2022/4)             | [Ver solución](./challenge04/)    |  172   |
 | #05  | [Optimizando viajes de Santa](https://adventjs.dev/es/challenges/2022/5)                        | [Ver solución](./challenge05/)    |  140   |
 | #06  | [Creando adornos navideños](https://adventjs.dev/es/challenges/2022/6)                          | [Ver solución](./challenge06/)    |  160   |
-| #07  |                                                                                                 |                                   |        |
+| #07  | [Haciendo inventario de regalos](https://adventjs.dev/es/challenges/2022/7)                     | [Ver solución](./challenge07/)    |  200   |
 | #08  |                                                                                                 |                                   |        |
 | #09  |                                                                                                 |                                   |        |
 | #10  |                                                                                                 |                                   |        |
