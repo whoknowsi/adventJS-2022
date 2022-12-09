@@ -16,7 +16,7 @@
 | #05  | [Optimizando viajes de Santa](https://adventjs.dev/es/challenges/2022/5)                        | [Ver solución](./challenge05/)    |  140   |
 | #06  | [Creando adornos navideños](https://adventjs.dev/es/challenges/2022/6)                          | [Ver solución](./challenge06/)    |  160   |
 | #07  | [Haciendo inventario de regalos](https://adventjs.dev/es/challenges/2022/7)                     | [Ver solución](./challenge07/)    |  400   |
-| #08  |                                                                                                 |                                   |        |
+| #08  | [¡Necesitamos un mecánico!](https://adventjs.dev/es/challenges/2022/8)                          | [Ver solución](./challenge08/)    |  240   |
 | #09  |                                                                                                 |                                   |        |
 | #10  |                                                                                                 |                                   |        |
 | #11  |                                                                                                 |                                   |        |
