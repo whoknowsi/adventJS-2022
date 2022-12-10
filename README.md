@@ -18,7 +18,7 @@
 | #07  | [Haciendo inventario de regalos](https://adventjs.dev/es/challenges/2022/7)                     | [Ver solución](./challenge07/)    |  400   |
 | #08  | [¡Necesitamos un mecánico!](https://adventjs.dev/es/challenges/2022/8)                          | [Ver solución](./challenge08/)    |  240   |
 | #09  | [Las locas luces de Navidad](https://adventjs.dev/es/challenges/2022/9)                         | [Ver solución](./challenge09/)    |  300   |
-| #10  |                                                                                                 |                                   |        |
+| #10  | [El salto del trineo de Papá Noel](https://adventjs.dev/es/challenges/2022/10)                  | [Ver solución](./challenge10/)    |  260   |
 | #11  |                                                                                                 |                                   |        |
 | #12  |                                                                                                 |                                   |        |
 | #13  |                                                                                                 |                                   |        |
