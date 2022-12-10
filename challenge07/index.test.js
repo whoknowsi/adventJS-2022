@@ -1,6 +1,6 @@
 const getGiftsToRefill = require('./index.js')
 
-describe('Challenge 03', () => {
+describe('Challenge 07', () => {
     test('Test #01 - expect return type array', () => {
         expect(Array.isArray(getGiftsToRefill([], [], []))).toBe(true);
     })
