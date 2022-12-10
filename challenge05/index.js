@@ -1,3 +1,6 @@
+// No siempre pasa los test aleatorios, tendría que revisar en qué casos falla con más detenimiento
+// pero en los test que se ejecutan al hacer npm test pasa todos
+// Da entre 120 - 140 puntos cuando se le canta kjj
 function getMaxGifts(giftsCities, maxGifts, maxCities) {
     let counter = 0
     let sum = 0
