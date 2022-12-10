@@ -56,4 +56,8 @@ describe('Challenge 10', () => {
     test('Test #14 - checkJump([1, 2, 3, 1, 3, 1]) to be false)', () => {
         expect(checkJump([1, 2, 3, 1, 3, 1])).toBe(false)
     })
+
+    test('Test #15 - checkJump([1, 3, 2, 5, 4, 3, 2, 1]) to be false)', () => {
+        expect(checkJump([1, 3, 2, 5, 4, 3, 2, 1])).toBe(false)
+    })
 })
