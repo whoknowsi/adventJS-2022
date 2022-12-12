@@ -20,7 +20,7 @@
 | #09  | [Las locas luces de Navidad](https://adventjs.dev/es/challenges/2022/9)                         | [Ver solución](./challenge09/)    |  300   |
 | #10  | [El salto del trineo de Papá Noel](https://adventjs.dev/es/challenges/2022/10)                  | [Ver solución](./challenge10/)    |  260   |
 | #11  | [Papá Noel es Scrum Master](https://adventjs.dev/es/challenges/2022/11)                         | [Ver solución](./challenge11/)    |  260   |
-| #12  | [Trineos eléctricos, ¡guau!](https://adventjs.dev/es/challenges/2022/12)                        | [Ver solución](./challenge12/)    |  360   |
+| #12  | [Trineos eléctricos, ¡guau!](https://adventjs.dev/es/challenges/2022/12)                        | [Ver solución](./challenge12/)    |  400   |
 | #13  |                                                                                                 |                                   |        |
 | #14  |                                                                                                 |                                   |        |
 | #15  |                                                                                                 |                                   |        |
