@@ -21,7 +21,7 @@
 | #10  | [El salto del trineo de Papá Noel](https://adventjs.dev/es/challenges/2022/10)                  | [Ver solución](./challenge10/)    |  260   |
 | #11  | [Papá Noel es Scrum Master](https://adventjs.dev/es/challenges/2022/11)                         | [Ver solución](./challenge11/)    |  260   |
 | #12  | [Trineos eléctricos, ¡guau!](https://adventjs.dev/es/challenges/2022/12)                        | [Ver solución](./challenge12/)    |  400   |
-| #13  | [Backup de los archivos de Papá Noel](https://adventjs.dev/es/challenges/2022/13)               | [Ver solución](./challenge13/)    |  220   |
+| #13  | [Backup de los archivos de Papá Noel](https://adventjs.dev/es/challenges/2022/13)               | [Ver solución](./challenge13/)    |  300   |
 | #14  |                                                                                                 |                                   |        |
 | #15  |                                                                                                 |                                   |        |
 | #16  |                                                                                                 |                                   |        |
