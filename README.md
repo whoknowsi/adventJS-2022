@@ -23,7 +23,7 @@
 | #12  | [Trineos eléctricos, ¡guau!](https://adventjs.dev/es/challenges/2022/12)                        | [Ver solución](./challenge12/)    |  400   |
 | #13  | [Backup de los archivos de Papá Noel](https://adventjs.dev/es/challenges/2022/13)               | [Ver solución](./challenge13/)    |  300   |
 | #14  | [El mejor camino](https://adventjs.dev/es/challenges/2022/14)                                   | [Ver solución](./challenge14/)    |  300   |
-| #15  |                                                                                                 |                                   |        |
+| #15  | [Decorando el árbol de Navidad](https://adventjs.dev/es/challenges/2022/15)                     | [Ver solución](./challenge15/)    |  260   |
 | #16  |                                                                                                 |                                   |        |
 | #17  |                                                                                                 |                                   |        |
 | #18  |                                                                                                 |                                   |        |
