@@ -1,6 +1,6 @@
 const decorateTree = require('./index.js')
 
-describe('Challenge 13', () => {
+describe('Challenge 15', () => {
     test("Test #01 - expect return type array", () => {
         expect(typeof decorateTree('')).toBe('object')
     })
