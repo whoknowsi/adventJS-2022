@@ -1,6 +1,6 @@
 const getOptimalPath = require('./index.js')
 
-describe('Challenge 13', () => {
+describe('Challenge 14', () => {
     test("Test #01 - expect return type array", () => {
         expect(typeof getOptimalPath([[0]])).toBe('number')
     })
