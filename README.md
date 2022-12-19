@@ -26,7 +26,7 @@
 | #15  | [Decorando el árbol de Navidad](https://adventjs.dev/es/challenges/2022/15)                     | [Ver solución](./challenge15/)    |  260   |
 | #16  | [Arreglando las cartas de Papá Noel](https://adventjs.dev/es/challenges/2022/16)                | [Ver solución](./challenge16/)    |  300   |
 | #17  | [Llevando los regalos en sacos](https://adventjs.dev/es/challenges/2022/17)                     | [Ver solución](./challenge17/)    |  260   |
-| #18  |                                                                                                 |                                   |        |
+| #18  | [¡Nos quedamos sin tinta!](https://adventjs.dev/es/challenges/2022/18)                          | [Ver solución](./challenge18/)    |  200   |
 | #19  |                                                                                                 |                                   |        |
 | #20  |                                                                                                 |                                   |        |
 | #21  |                                                                                                 |                                   |        |
