@@ -3,7 +3,7 @@
 ![adventJs](https://i.imgur.com/iv17QFL.png)
 
 ## <img src="https://adventjs.dev/android-icon-192x192.png" width="20" height="20" /> <strong> [adventJS](https://adventjs.dev/es) es una iniciativa de [@midudev](https://midu.dev/)</strong>
- 
+
 
 ## Retos
 
@@ -28,7 +28,7 @@
 | #17  | [Llevando los regalos en sacos](https://adventjs.dev/es/challenges/2022/17)                     | [Ver solución](./challenge17/)    |  260   |
 | #18  | [¡Nos quedamos sin tinta!](https://adventjs.dev/es/challenges/2022/18)                          | [Ver solución](./challenge18/)    |  200   |
 | #19  | [Ordenando los regalos](https://adventjs.dev/es/challenges/2022/19)                             | [Ver solución](./challenge19/)    |  400   |
-| #20  |                                                                                                 |                                   |        |
+| #20  | [Más viajes retadores](https://adventjs.dev/es/challenges/2022/20)                              | [Ver solución](./challenge20/)    |   10   |
 | #21  |                                                                                                 |                                   |        |
 | #22  |                                                                                                 |                                   |        |
 | #23  |                                                                                                 |                                   |        |
