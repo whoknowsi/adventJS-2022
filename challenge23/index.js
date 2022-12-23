@@ -1,10 +1,9 @@
-// Complejidad cognitiva: 9
+// Complejidad cognitiva: 8
 function executeCommands(commands) {
     const normalizeNumber = (number) => {
-        return number > 255
-            ? number - 256
-            : number < 0
-                ? number + 256 : number
+        if (number > 255) return number - 256
+        if (number < 0) return number + 256
+        return number
     }
 
     const dictionary = {
