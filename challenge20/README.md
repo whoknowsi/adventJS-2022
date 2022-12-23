@@ -75,7 +75,6 @@ howManyReindeers(reindeerTypes, gifts)
 ```
 
 A tener en cuenta:
-
 - Siempre habrá un tipo de reno con capacidad de carga 1.
 - Siempre habrá al menos dos tipos de renos disponibles.
 - No existe límite de renos de un mismo tipo a enviar siempre y cuando se ciña a las restricciones anteriormente expuestas.
