@@ -31,7 +31,7 @@
 | #20  | [Más viajes retadores](https://adventjs.dev/es/challenges/2022/20)                              | [Ver solución](./challenge20/)    |   10   |
 | #21  | [Creando la tabla de regalos](https://adventjs.dev/es/challenges/2022/21)                       | [Ver solución](./challenge21/)    |  300   |
 | #22  | [La iluminación en sintonía](https://adventjs.dev/es/challenges/2022/22)                        | [Ver solución](./challenge22/)    |  400   |
-| #23  |                                                                                                 |                                   |        |
+| #23  | [Compilador de Papá Noel](https://adventjs.dev/es/challenges/2022/23)                           | [Ver solución](./challenge23/)    |   10   |
 | #24  |                                                                                                 |                                   |        |
 
 ## Tests
