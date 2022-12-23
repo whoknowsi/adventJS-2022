@@ -10,9 +10,9 @@ function executeCommands(commands) {
         MOV: (a, b, registers) => {
             const pos1 = Number(a.slice(1))
             const pos2 = Number(b.slice(1))
-            a.includes('V')
-                ? registers[pos2] = registers[pos1]
-                : registers[pos2] = Number(a)
+            registers[pos2] = a.includes('V')
+                ? normalizeNumber(registers[pos1])
+                : Number(a)
         },
         ADD: (a, b, registers) => {
             const pos1 = Number(a.slice(1))
