@@ -1,4 +1,4 @@
-// Complejidad cognitiva: 8
+// Complejidad cognitiva de 8
 function executeCommands(commands) {
     const normalizeNumber = (number) => {
         if (number > 255) return number - 256
