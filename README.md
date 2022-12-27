@@ -32,7 +32,7 @@
 | #21  | [Creando la tabla de regalos](https://adventjs.dev/es/challenges/2022/21)                       | [Ver solución](./challenge21/)    |  300   |
 | #22  | [La iluminación en sintonía](https://adventjs.dev/es/challenges/2022/22)                        | [Ver solución](./challenge22/)    |  400   |
 | #23  | [Compilador de Papá Noel](https://adventjs.dev/es/challenges/2022/23)                           | [Ver solución](./challenge23/)    |   10   |
-| #24  |                                                                                                 |                                   |        |
+| #24  | [El último reto es un laberinto](https://adventjs.dev/es/challenges/2022/24)                    | [Ver solución](./challenge24/)    | 1500   |
 
 ## Tests
 
