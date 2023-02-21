@@ -1,14 +1,15 @@
 {
-  "name": "challenge07",
+  "name": "adventjs-2022",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest ."
   },
-  "author": "whomi",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "jest": "^29.3.1"
+    "jest": "29.4.3"
   }
 }
